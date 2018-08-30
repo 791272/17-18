@@ -1,0 +1,32 @@
+
+body{
+      background: lightblue url("images/back.png") no-repeat fixed center;
+  }
+
+
+  #wrapperDiv{
+  margin:auto;
+  width:1000px;
+  height:900px;
+  border: black solid 2px;
+  margin-top: 100px;
+  background-color: black;
+}
+
+#menuDiv{
+  width:1000px;
+  height:100px;
+  float:left;
+  background-color: #d17f7f;
+}
+
+#infoDiv{
+  width:100px;
+  height:800px;
+  float:right;
+  background-color: #877070;
+}
+
+#canvas{
+    float:right;
+}
